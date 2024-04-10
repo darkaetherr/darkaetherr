@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @darkaetherr
-- 👀 I’m interested in expand my knowledge 
-- 🌱 I’m currently learning windows kernel 
+- 🌱 I’m currently learning kernel/assembly
 - 📫 How to reach me on discord: the0x9
